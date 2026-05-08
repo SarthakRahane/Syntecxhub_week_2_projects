@@ -1,0 +1,12 @@
+[
+    {
+        "book_id": "001",
+        "title": "Blue Lock",
+        "author": "Muneyuki Kaneshiro",
+        "genre": "Sports",
+        "quantity": 2,
+        "available": 2,
+        "issued_to": {},
+        "added_on": "2026-05-03"
+    }
+]
